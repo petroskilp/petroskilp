@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Olá 👋
+Meu nome é Luiz Pedro Petroski, sou Professor e Programador nas horas vagas.
 <!--
 **petroskilp/petroskilp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
